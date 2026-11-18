@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+studio/07_Automation_Workflows/.run/
+# Large or personal media never belongs in this repo
+*.mov
+*.MOV
+*.aep
+*.aep Logs/
+Auto-Save/
+*.dmg
+*.zip
+*.tgz
+renders/
